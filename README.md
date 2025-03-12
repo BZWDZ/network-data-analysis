@@ -1,8 +1,4 @@
-
 # network-data-analysis
-Daily Progress Log
-
-network-data-analysis
 Daily Progress Log
 
 3.3
