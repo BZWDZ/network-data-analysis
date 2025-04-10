@@ -11,9 +11,16 @@ Establishment of the basic framework and readiness to proceed with the completio
 
 3.5
 
-Completion of the preamble to part 1 and code implementation of task A of part
+Completion of Part 1, Task A
 
 3.12
 
-Completion of the preamble to part 2 and code implementation of task A of part
+Completion of task A report
 
+3.14
+
+Completion of Part 1, Task B（30%）
+
+3.15
+
+Completion of Part 1, Task B
